@@ -1,1 +1,2 @@
 hi the first git project and understanding key imp of it
+here is some changes
